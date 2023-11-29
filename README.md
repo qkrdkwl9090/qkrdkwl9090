@@ -1,5 +1,5 @@
 ### Hello world 👋
-I work as a front developer in Korea and mainly develop using Vue, Nuxt.
+I work as a front developer in Korea and mainly develop using Nuxt, Vue, Next, React.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qkrdkwl9090&layout=compact)
 
@@ -15,6 +15,8 @@ I work as a front developer in Korea and mainly develop using Vue, Nuxt.
   <img src="https://img.shields.io/badge/styled_components-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white">
   <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"> 
   <img src="https://img.shields.io/badge/nuxt.js-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white">
+  <img src="https://img.shields.io/badge/react.js-0082C9?style=for-the-badge&logo=react&logoColor=white">
+  <img src="https://img.shields.io/badge/next.js-00A4FF?style=for-the-badge&logo=next.js&logoColor=white">
   <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/apollo_graphql-311C87?style=for-the-badge&logo=apollographql&logoColor=white">
   <img src="https://img.shields.io/badge/amazon_aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
